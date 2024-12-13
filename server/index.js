@@ -10,7 +10,7 @@ const port = 3000;
 app.use(cors());
 
 app.get("/", (request, response) => {
-  response.send("Hello World! Welcome back to mobile legends");
+  response.send("Hello World! Welcome back to my server");
 });
 
 app.get("/menu", async (request, response) => {

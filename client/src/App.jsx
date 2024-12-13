@@ -8,7 +8,7 @@ function App() {
   const [dataMenu, setDataMenu] = useState([]);
 
   async function getData() {
-    const url = "http://localhost:3000/menu";
+    const url = "https://adaptable-fortunate-hiss.glitch.me/menu";
     try {
       const response = await fetch(url);
       if (!response.ok) {
@@ -63,7 +63,7 @@ function App() {
 
       <div className="container py-5">
         <div className=" d-flex justify-content-center">
-          <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" style={{ width: "80%" }}>
+          <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" style={{ width: "8cd0%" }}>
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <img src="public/1.jpg" class="d-block w-100" alt="poster promo-1" style={{ height: "400px", "border-radius": "20px" }} />

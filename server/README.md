@@ -15,5 +15,5 @@ node --watch index.js
 3. aplikasi akan berjalan di http://localhost:3000, silahkan akses endpointnya
 
 ```
-misalnya localhost:3000/movies
+misalnya localhost:3000/menu
 ```
