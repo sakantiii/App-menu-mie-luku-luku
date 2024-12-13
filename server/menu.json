@@ -1,0 +1,24 @@
+[
+  {
+    "category": "MIE",
+    "items": [
+      { "id": 1, "title": "Mie Kecap Level 0", "price": 14500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e820250b-c4ac-4fe3-81ae-b799331cc305_mie_iblis.jpg?auto=format", "status": "", "deskripsi": "mie yang memiliki cita rasa pedas dan manis. varian menu Mie Kecap ini tersedia dari level 0-2." },
+      { "id": 2, "title": "Mie Kecap Level 1", "price": 14500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e820250b-c4ac-4fe3-81ae-b799331cc305_mie_iblis.jpg?auto=format", "status": "", "deskripsi": "mie yang memiliki cita rasa pedas dan manis. varian menu Mie Kecap ini tersedia dari level 0-2." },
+      { "id": 3, "title": "Mie Kecap Level 2", "price": 14500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e820250b-c4ac-4fe3-81ae-b799331cc305_mie_iblis.jpg?auto=format", "status": "Best Seller", "deskripsi": "mie yang memiliki cita rasa pedas dan manis. varian menu Mie Kecap ini tersedia dari level 0-2." },
+      { "id": 4, "title": "Mie Polos Level 1", "price": 14500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/91b279b4-25ce-451f-baf9-c4f333574104_mie_setan.jpg?auto=format", "status": "", "deskripsi": "mie yang memiliki cita rasa pedas. varian menu Mie Polos ini tersedia dari level 1-2." },
+      { "id": 5, "title": "Mie Polos Level 2", "price": 14500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/91b279b4-25ce-451f-baf9-c4f333574104_mie_setan.jpg?auto=format", "status": "Recommendation", "deskripsi": "mie yang memiliki cita rasa pedas. varian menu Mie Polos ini tersedia dari level 1-2." },
+      { "id": 6, "title": "Mie Special", "price": 14500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0b6f7c67-419c-40fd-ad74-941eb561b1c3_mie_angel.jpg?auto=format", "status": "", "deskripsi": "mie yang memiliki cita rasa manis gurih. Cocok untuk anak-anak" }
+    ]
+  },
+  {
+    "category": "BEVERAGE",
+    "items": [
+      { "id": 7, "title": "AIR MINERAL BOTOL", "price": 6000, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/50d9412b-3372-4b4d-af12-2e4af9540b49_da4fb5c6e93e74d3df8527599fa626421733979102.jpg?auto=format", "status": "", "deskripsi": "air mineral 600 ml"},
+      { "id": 8, "title": "GREEN THAI TEA", "price": 11500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c8a443bb-f073-476a-9bb3-6b057234aa75_thai_green_tea.jpg?auto=format", "status": "", "deskripsi": "green tea manis lengkap dengan topping"},
+      { "id": 9, "title": "TARIK TEA", "price": 11500, "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c8a443bb-f073-476a-9bb3-6b057234aa75_thai_green_tea.jpg?auto=format", "status": "Best Seller", "deskripsi": "teh tarik manis lengkap dengan topping" }
+    ]
+  }
+]
+
+
+ 
