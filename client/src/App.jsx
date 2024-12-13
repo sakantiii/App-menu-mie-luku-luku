@@ -45,7 +45,7 @@ function App() {
       <nav className="navbar bg-success-subtle">
         <div className="container d-flex">
           <a class="navbar-brand" href="#">
-            <img src="public/logo_mie.png" alt="Logo Mie" height="75"
+            <img src="/logo_mie.png" alt="Logo Mie" height="75"
             />
           </a>
 
@@ -66,13 +66,13 @@ function App() {
           <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" style={{ width: "8cd0%" }}>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="public/1.jpg" class="d-block w-100" alt="poster promo-1" style={{ height: "400px", "border-radius": "20px" }} />
+                <img src="/1.jpg" class="d-block w-100" alt="poster promo-1" style={{ height: "400px", "border-radius": "20px" }} />
               </div>
               <div class="carousel-item">
-                <img src="public/2.jpg" class="d-block w-100" alt="poster promo-2" style={{ height: "400px", "border-radius":"20px" }} />
+                <img src="/2.jpg" class="d-block w-100" alt="poster promo-2" style={{ height: "400px", "border-radius":"20px" }} />
               </div>
               <div class="carousel-item">
-                <img src="public/3.jpg" class="d-block w-100" alt="poster promo-3" style={{ height: "400px","border-radius": "20px" }} />
+                <img src="/3.jpg" class="d-block w-100" alt="poster promo-3" style={{ height: "400px","border-radius": "20px" }} />
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
