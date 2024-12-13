@@ -45,7 +45,7 @@ function App() {
       <nav className="navbar bg-success-subtle">
         <div className="container d-flex">
           <a class="navbar-brand" href="#">
-            <img src="/logo_mie.png" alt="Logo Mie" height="75"
+            <img src="/logo_mie.png" alt="Logo Mie" height="65"
             />
           </a>
 
